@@ -188,7 +188,7 @@ This reads the `emails.db` files under each model subdirectory and writes `resul
 Open and run the final analysis notebook:
 
 ```text
-notebooks/99r3Data_Analysis_all_models-full.ipynb
+notebooks/12_Data_Analysis_all_models-full.ipynb
 ```
 
 This merges the per-platform metrics CSVs and produces all plots and tables in the paper.

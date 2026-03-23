@@ -1,7 +1,9 @@
 # When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems
 
 **Paper:** [arXiv:2601.16280](https://arxiv.org/abs/2601.16280)
+
 **Authors:** Donghao Huang, Gauri Malwe, Zhaoxia Wang
+
 **Venue:** 9th International Conference on Artificial Intelligence and Big Data (ICAIBD 2026)
 
 ## Overview
